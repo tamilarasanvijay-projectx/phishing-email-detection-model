@@ -1,0 +1,38 @@
+email_text,label
+"Your account is suspended. Verify your password immediately at http://secure-login-example.test to restore access.",phishing
+"Congratulations, you won a prize. Click http://claim-prize-example.test within 24 hours to collect your reward.",phishing
+"Urgent security alert: unusual activity detected. Confirm your bank login at http://bank-check-example.test.",phishing
+"Your payment is pending. Open http://invoice-review-example.test and enter your account details.",phishing
+"Your mailbox will be closed today. Update your password now using http://mail-verify-example.test.",phishing
+"Final notice: your package delivery failed. Pay a small fee at http://delivery-fee-example.test.",phishing
+"Dear customer, your account needs verification. Click this link http://account-confirm-example.test immediately.",phishing
+"You have been selected as a winner. Send your details to claim the limited prize.",phishing
+"Your bank account has unusual activity. Login through http://bank-alert-example.test to secure it.",phishing
+"An invoice is overdue. Download the attached file and confirm payment immediately.",phishing
+"IT support: your password expires today. Verify your login at http://password-reset-example.test.",phishing
+"Limited offer! Claim your gift card now by visiting http://gift-claim-example.test.",phishing
+"Please review the attached payment request and enter your banking password to release funds.",phishing
+"Security warning: your account is locked. Confirm your identity using this shortened link http://bit.ly/example.",phishing
+"Your subscription payment failed. Update card details immediately at http://billing-fix-example.test.",phishing
+"Action required within 24 hours: verify your account or access will be suspended.",phishing
+"Hello, the team meeting is scheduled for 10 AM tomorrow in the main conference room.",safe
+"Please find the monthly project report attached. Let me know if you have questions.",safe
+"Your library book is due next Monday. You can renew it through the library website.",safe
+"Thank you for attending today's workshop. The presentation slides are attached.",safe
+"The college timetable for the new semester is available on the student portal.",safe
+"Hi team, our weekly status meeting has moved to Thursday afternoon.",safe
+"Your order has been shipped. You can view delivery progress in the official store app.",safe
+"Reminder: the department seminar begins at 2 PM in Room 204.",safe
+"Please review the draft document and share your feedback by Friday.",safe
+"Your appointment is confirmed for 11:30 AM on 18 December. Contact the clinic if you need to reschedule.",safe
+"The software update is available in the official application store. Install it when convenient.",safe
+"Attached is the class assignment outline. The submission deadline is next week.",safe
+"Thank you for your payment. Your receipt is available in your account on our official website.",safe
+"Hello, I have shared the meeting notes in the team's approved document workspace.",safe
+"Your course registration was successful. You can view your subjects on the college portal.",safe
+"The office will be closed on the public holiday. Normal working hours resume the next day.",safe
+"Please confirm whether you can attend the project review meeting tomorrow.",safe
+"Your monthly statement is ready. Sign in by typing your bank's known website address in your browser.",safe
+"Hi, the requested source code changes have been committed to the project repository.",safe
+"Your exam hall ticket is available for download from the university student portal.",safe
+"Thank you for contacting support. Your service request has been recorded and assigned a ticket number.",safe
